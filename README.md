@@ -1,5 +1,6 @@
 # Modul1_Probstat_5025211160
 Hasil pengerjaan pratikum modul1 Probstat A
+
 1.Dari perbandingan poin A dan poin B yang dicari hasil nilainya bisa dikatakan hampir sama dengan perbedaan yang tidak terlalu signifikan dimana poin a peluang bernilai 0.1024 dan poin b adalah rata rata dengan 10000 data random dengan nilai 0.1025
 
 2.nilai peluang didapatkan dengan fungsi dari distribusi binomial pada R
